@@ -25,6 +25,3 @@ This is a simple photo editor GUI application built using Tkinter and Pillow (PI
 ## Author
 Abhishek Pathak
 
-# Terms of Use
-
-Thank you for using the Photo Editor application ("the Application") created by Abhishek Pathak . 
