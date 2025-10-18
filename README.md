@@ -27,6 +27,4 @@ Abhishek Pathak
 
 # Terms of Use
 
-Thank you for using the Photo Editor application ("the Application") created by Abhishek Pathak . By using this Application, you agree to the following terms and conditions:
-
-"# Image_Editor" 
+Thank you for using the Photo Editor application ("the Application") created by Abhishek Pathak . 
